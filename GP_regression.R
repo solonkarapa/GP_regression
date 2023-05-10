@@ -56,5 +56,3 @@ lines(XX, mup, lwd = 2)
 lines(XX, q1, lwd = 2, lty = 2)
 lines(XX, q2, lwd = 2, lty = 2)
 
-
-
